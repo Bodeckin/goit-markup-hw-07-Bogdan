@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":[],"names":[],"mappings":"","file":"main.min.css"}
+{"version":3,"sourceRoot":"","sources":["../sass/utils/_veriables.scss"],"names":[],"mappings":"AAAA,MAEI,yCAGA,sBACA,4BACA,yBACA,kCACA,2BACA,wBACA,wBACA,mDACA","file":"main.min.css"}
